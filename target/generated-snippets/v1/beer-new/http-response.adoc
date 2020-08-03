@@ -1,0 +1,6 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 201 Created
+Location: /api/v1/beer/275a9172-e4b2-4cba-8bef-15881f6d7acc
+
+----
